@@ -1,0 +1,69 @@
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe.config
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.pdb
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csprojResolveAssemblyReference.cache
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.ConnectionHandler.resources
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.Properties.Resources.resources
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.GenerateResource.cache
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.CoreCompileInputs.cache
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.CopyComplete
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.exe
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.pdb
+C:\Users\Gregersen\source\repos\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.OperatorPanel.resources
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe.config
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.exe
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.pdb
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe.config
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.pdb
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csprojResolveAssemblyReference.cache
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.ConnectionHandler.resources
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.OperatorPanel.resources
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.Properties.Resources.resources
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.GenerateResource.Cache
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.CoreCompileInputs.cache
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.exe
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.pdb
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe.config
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.pdb
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.ConnectionHandler.resources
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.OperatorPanel.resources
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.Properties.Resources.resources
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.GenerateResource.cache
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.CoreCompileInputs.cache
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.exe
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.pdb
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\ListBoxScrollRemover.pdb
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.exe
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\IndustriTekOP.pdb
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\ListBoxScrollRemover.pdb
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.ConnectionHandler.resources
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.OperatorPanel.resources
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.Properties.Resources.resources
+C:\Users\Christian\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.GenerateResource.Cache
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.dll
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.xml
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\Resources\NFCSorter.db
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\Resources\NFCSorter.db
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.dll
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.xml
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\ListBoxScrollRemover.pdb
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lasse\OneDrive - Syddansk Erhvervsskole\SDE\H5\Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csprojAssemblyReference.cache
+C:\Users\Gregersen\Syddansk Erhvervsskole\Lasse Rode Alfastsen - Industriteknologi\Noget der ligner starten på kode hvis man kigger godt efter\IndustriTekOP\IndustriTekOP\obj\Debug\IndustriTekOP.csproj.CopyComplete
